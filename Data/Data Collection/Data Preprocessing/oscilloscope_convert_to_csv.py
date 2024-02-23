@@ -1,4 +1,5 @@
-""" 把所有的.txt的数据转化成一个.csv """
+""" This script converts all .txt files collected from oscilloscope
+to .csv """
 # %%
 import os
 import pandas as pd
